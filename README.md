@@ -19,13 +19,9 @@ The analysis includes charts like:
 
 Comparing NVDA's growth against SPY and XLK, scaled to the same starting point to show relative returns.
 
----
-
 ### Comparative P/E Ratios
 
 A comparison of NVDA's historical P/E ratio trends against MSFT and GOOG.
-
----
 
 ### Current Valuation Metrics
 
